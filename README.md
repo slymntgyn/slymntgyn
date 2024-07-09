@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Süleyman</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m developed a project with flutter **https://play.google.com/store/apps/details?id=com.benim.ilk.uygulamam.senseriduvarkagidi**
+- 🌱 I’m developed a project with flutter **https://l24.im/qOFpzP**
 
 - 📝 I regularly write articles on [senseri.blogspot.com](senseri.blogspot.com)
 
