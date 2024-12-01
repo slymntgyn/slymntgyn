@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **slymntgyn@hotmail.com**
 
-- 📄 Know about my experiences [suleymantugyan.com](suleymanturan.com)
+- 📄 Know about my experiences [suleymanturan.com](suleymanturan.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
