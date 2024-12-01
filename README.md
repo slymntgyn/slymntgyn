@@ -7,11 +7,9 @@
 
 - 🌱 I’m developed a project with flutter **https://play.google.com/store/apps/details?id=com.benim.ilk.uygulamam.senseriduvarkagidi**
 
-- 📝 I regularly write articles on [senseri.blogspot.com](senseri.blogspot.com)
-
 - 📫 How to reach me **slymntgyn@hotmail.com**
 
-- 📄 Know about my experiences [suleymantugyan.com](suleymantugyan.com)
+- 📄 Know about my experiences [suleymantugyan.com](suleymanturan.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
